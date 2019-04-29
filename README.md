@@ -8,7 +8,7 @@
 
 ___
 
-###Command for tests running
+### Command for tests running
 
 `npm run test`
 
@@ -20,7 +20,7 @@ ___
 
 `cypress run`
 
-###Performance checking result
+### Performance checking result
 
 <p align="center">
   <img src="https://funkyimg.com/i/2TxXq.png"/>
