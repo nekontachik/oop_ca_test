@@ -22,4 +22,4 @@ ___
 
 ###Performance checking result
 
-`![test performance ](https://github.com/nekontachik/oop_ca_test/blob/master/Screen%20Shot%202019-04-29%20at%208.07.52%20PM.png.jpg "Performance image")`
+`![test performance ](Screen%20Shot%202019-04-29%20at%208.07.52%20PM.png "Performance image")`
