@@ -8,17 +8,15 @@
 
 ___
 
-### Command for tests running
+### Command for tests runner opening
 
-`npm run test`
-
-`npm run open`
+`npm cypress open`
 
 ---
 
 ### Run tests in background
 
-`cypress run`
+`npx cypress run`
 
 ### Performance checking result
 
