@@ -10,7 +10,7 @@ ___
 
 ### Command for tests runner opening
 
-`npm cypress open`
+`npx cypress open`
 
 ---
 
