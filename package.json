@@ -1,0 +1,17 @@
+{
+  "name": "oop_ca_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "npm start & cypress run",
+    "e2e": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.2.0",
+    "cypress-eslint-preprocessor": "^1.2.2"
+  }
+}
