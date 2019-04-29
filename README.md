@@ -22,4 +22,6 @@ ___
 
 ###Performance checking result
 
-`![test performance ](https://funkyimg.com/view/2TxXq "Performance image")`
+<p align="center">
+  <img src="https://funkyimg.com/i/2TxXq.png"/>
+</p>
