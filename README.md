@@ -18,6 +18,10 @@ ___
 
 `npx cypress run`
 
+### Tests result
+<p align="center">
+  <img src="https://funkyimg.com/i/2TyAs.png"/>
+</p>
 
 ### Performance checking result
 
